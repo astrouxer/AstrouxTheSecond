@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Astroux!
-- 👀 I’m interested in: Coding and Gaming
-- 🌱 I’m currently learning: C++/Python
+- hi there
